@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: #be79df;
+}
+
+body {
+    background-color: #ffebd9;
+    text-align: center;
+    border: 20pt dotted blue;
+    font-family: 'Merriweather', serif;
+}
+
+canvas {
+    border: 1pt darkmagenta;
+    border-style: dotted solid;
+    height: 300px;
+    width: 300px;
+}
+
+h2 {
+    color: #be79df;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.red {
+    border: 2pt solid red;
+    border-radius: 40px;
+}
+
+.blue {
+    border: 2pt solid blue;
+    border-radius: 40px;
+}
+
+.grey {
+    border: 2pt solid grey;
+    border-radius: 40px;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: blue;
+    border-width: 5px;
+    width: 5%;
+    height: 20px;
+    margin: 70px auto 70px auto;
+}
+
+.top {
+    border-radius: 100%;
+    height: 200px;
+    float: center;
+}
+
+input {
+    font-size: 12pt;
+}
